@@ -1,4 +1,7 @@
-#content {
+/*body { font-family:Arial, Sans-Serif; font-size:13px;}*/
+/*body { width:1080px; overflow:hidden; margin:0 auto; position:relative;}*/
+
+body {
     /*background-color: #F8F4E7;*/
     /*color: #552800;*/
     width: 600px;
@@ -9,12 +12,7 @@
     margin: 16px auto;
 }
 
-/*body { font-family:Arial, Sans-Serif; font-size:13px;}*/
-#container { width:1080px; overflow:hidden; margin:0 auto; position:relative;}
-
-#content {width:600px; }
-
-#toc {width:200px; float:left; position:fixed;}
+#toc {width:200px; float:left; position:fixed; margin-left: -220px; margin-top: -20px}
 #toc a { display:block; color:#0094FF; }
 #toc a:link {text-decoration: none;}
 #toc a:hover {text-decoration: underline;}
