@@ -1,4 +1,6 @@
 $(document).ready(function() {
+    $("#container").prepend('<div id="toc"></div>');
+
     $("#toc").append('<p><b>Table of Content</b></p>');
     $("h1, h2, h3").each(function(i) {
         let current = $(this);
