@@ -12,7 +12,7 @@ body {
     margin: 16px auto;
 }
 
-#toc {width:200px; float:left; position:fixed; margin-left: -220px; margin-top: -20px}
+#toc {width:200px; float:left; position:fixed; margin-left: -250px; margin-top: -20px}
 #toc a { display:block; color:#0094FF; }
 #toc a:link {text-decoration: none;}
 #toc a:hover {text-decoration: underline;}
