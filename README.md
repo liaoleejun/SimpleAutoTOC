@@ -1,5 +1,5 @@
-# Demo
-Please open template.html file to see the demo.
+# Notes
+Please download, and then open the file template.html to see the demo.
 
 # References
 1. http://www.jankoatwarpspeed.com/automatically-generate-table-of-contents-using-jquery/
