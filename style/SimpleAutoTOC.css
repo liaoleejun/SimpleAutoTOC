@@ -12,7 +12,13 @@ body {
     margin: 16px auto;
 }
 
-#toc {width:200px; float:left; position:fixed; margin-left: -250px; margin-top: -20px}
+#toc {
+    border: 1px solid #552800;
+    border-radius: 5px;
+    outline: 0 solid #552800;
+    padding: 10px;
+}
+#toc {width:200px; float:left; position:fixed; margin-left: -250px; margin-top: -10px}
 #toc a { display:block; color:#0094FF; }
 #toc a:link {text-decoration: none;}
 #toc a:hover {text-decoration: underline;}
